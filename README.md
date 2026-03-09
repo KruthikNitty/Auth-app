@@ -1,5 +1,10 @@
 #Auth  App
- its an secure authentication app built with React and Node.js
+its an secure authentication app 
+built with React and Node.js
+
+Frontend:React(Vite)
+Backend:Node.js+Express
+Authentication:JWT(JSON Web Token)
 
 ##Backend Setup
 
